@@ -306,7 +306,7 @@ section{
     display: flex;
     align-items: center;
     justify-content: center;
-    background: url(image/gambar) no-repeat;
+    background: url(image/gambar-sayuran.jpg) no-repeat;
     background-position: center;
     background-size: cover;
     padding-top:170px;
